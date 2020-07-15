@@ -58,11 +58,11 @@ h3 {
 }
 
 .hello-heading {
-    font-size: 150px;
+    font-size: 180px;
     text-align: center;
     padding-top: 100px;
     color: aliceblue;
-    font-family: 'Sail', cursive;
+    font-family: 'Cedarville Cursive', cursive;
 }
 
 
@@ -143,6 +143,11 @@ h1 {
 .small-text-appointd {
     color: #45e0bb;
     font-size: large;
+}
+
+.small-text-bot {
+  color: #FF9F55;
+  font-size: large;
 }
 
 .footer {
